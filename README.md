@@ -6,9 +6,9 @@ Escreva uma descrição do seu projeto
 
 ## :wrench: Tecnologias utilizadas
 
-- HTML5;
-- CSS3;
-- JavvaScript;
+- HTML5
+- CSS3
+- JavvaScript
 
 ## :rocket: Rodando o projeto
 
@@ -30,3 +30,5 @@ Para rodar o projeto é necessário clonar o mesmo, e rodar em seu navegador:
 </table>
 
 ## :dart: Status do projeto
+
+Em desenvolvimento
