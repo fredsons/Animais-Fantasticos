@@ -4,6 +4,8 @@
 
 O projeto foi criado para aplicar os estudos vistos nas aulas de JavaScript, como por exemplo manipulação e efeitos do DOM, JavaScript Assíncrono e Módulos.
 
+## :memo: Versão final desktop
+
 <p align="center">
 
   <img src="./images/AnimaisFantasticos.gif" width="600" height="300" />
