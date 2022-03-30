@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 
-Escreva uma descrição do seu projeto
+O projeto foi criado para aplicar os estudos vistos nas aulas de JavaScript, como por exemplo manipulação e efeitos do DOM, JavaScript Assíncrono e Módulos.
 
 ## :wrench: Tecnologias utilizadas
 
