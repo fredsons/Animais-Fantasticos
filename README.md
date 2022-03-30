@@ -12,7 +12,7 @@ Escreva uma descrição do seu projeto
 
 ## :rocket: Rodando o projeto
 
-Para rodar o repositório é necessário clonar o mesmo, e rodar em seu navegador:
+Para rodar o projeto é necessário clonar o mesmo, e rodar em seu navegador:
 
 ## :handshake: Colaboradores
 
@@ -22,7 +22,7 @@ Para rodar o repositório é necessário clonar o mesmo, e rodar em seu navegado
       <a href="http://github.com/fredsons">
         <img src="https://avatars.githubusercontent.com/u/85347233?v=4" width="100px;" alt="Foto de Fredson Sousa no GitHub"/><br>
         <sub>
-          <b>tatialveso</b>
+          <b>fredsons</b>
         </sub>
       </a>
     </td>
