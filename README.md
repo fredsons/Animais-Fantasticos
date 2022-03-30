@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 
-O projeto foi criado para aplicar os estudos vistos nas aulas de JavaScript, como por exemplo manipulação e efeitos do DOM, JavaScript Assíncrono e Módulos.
+Animais fantásticos é um site de uma organização fictícia com informações de alguns animais, que supostamente aceitaria doação em bitcoin.
 
 ## :memo: Versão final desktop
 
