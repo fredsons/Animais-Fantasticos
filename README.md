@@ -15,7 +15,7 @@ Animais fantásticos é um site de uma organização fictícia com informações
 
 - HTML5
 - CSS3
-- JavvaScript
+- JavaScript
 
 ## :rocket: Rodando o projeto
 
